@@ -21,7 +21,7 @@ After college, I changed direction and decided to make some use of my training i
 
 ## Piano Study & Piano Teaching Business
 
-After taking music and piano lessons from a number of different teachers, I was very fortunate to meet and begin to study piano with world-class pianist and teacher Seymour Bernstein in New York City.  I’ve been studying with Seymour for about 10 years now, and I’ve learned so much from him about piano, music, and life in general.  
+After taking music and piano lessons from a number of different teachers, I was very fortunate to meet and begin to study piano with Seymour Bernstein in New York City.  I’ve been studying with Seymour for about 10 years now, and I’ve learned so much from him about piano, music, and life in general.  
 
 After years of piano study, I decided to start teaching piano lessons myself.  Building a piano teaching business from scratch was eye opening in a number of ways.  I learned how to run a freelance business, and I gained experience with building websites, writing copy, and working with SEO and advertising.
 
