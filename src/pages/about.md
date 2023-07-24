@@ -29,9 +29,13 @@ After years of piano study, I decided to start teaching piano lessons myself.  B
 
 I've always enjoyed reading and writing.  My interest and skill in writing was one of the main factors in my decisions to major in philosophy as an undergraduate and to go to law school and pursue a legal career.  I've recently began doing some work as a freelance writer generating content for web sites.
 
-## Computer Programming / Web Site Development and Design  
+## Computer Programming
 
-Most recently, I’ve learned computer programming and web development and started a web design business.  If you're interested in building a web site with me, please get in touch.
+Over the last year or so, I've been increasingly focused on learning and working with computer programming.  I've had an interest in coding and computers since I was a young child playing around with my family's Commodore 64 and other IBM-compatible computers.  I've since spent time learning and exploring the linux and macos operating systems.  I've particularly enjoyed deepening my understading of the command line and the arch linux and ubuntu linux distributions.  I've also spent time studying programming languages such as C, C++, Lua, Rust, go (golang), and python.  Most recently, I've been focused on learning web development with a focus on html, css, and javascript.
+
+## Archtop Web Studio - Web Site Development & Design
+
+I'm currently in the process of launching Archtop Web Studio, a new business that's focused on building web sites for various clients.  If you're interested in building a web site with me, please get in touch.
 
 ## Teaching & Learning in Public
 
