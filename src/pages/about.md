@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 <br/>
-<img src="../../public/assets/headshot.webp" alt="Headshot" >
+<img src="../../assets/headshot.webp" alt="Headshot" >
 
 ## Location
 
