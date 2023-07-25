@@ -2,6 +2,8 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+<br/>
+<img src="../../public/assets/headshot.webp" alt="Headshot" >
 
 ## Location
 
@@ -56,3 +58,10 @@ I feel drawn to the learn in public model.  I’ve learned so much from my piano
 - philosophy
 
 - computer science & technology
+
+<style>
+img {
+width: 350px;
+border-radius: 20px;
+}
+<style/>
