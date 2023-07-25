@@ -9,7 +9,7 @@ I've spent most of my life in the northeastern United States, primarily in and a
 
 ## Music
 
-I’ve always had a deep connection to music.  I began my study of music as a child, and my love of and relationship with music has grown and deepend over time.  I’ve learned to play a number of different instruments such as piano, guitar, drums, saxophone, and trumpet.  I’m currently running a business in which I teach piano lessons professionally - both in person and online.  In addition to personal referrals, word of mouth, and a few other sources, I’m generating leads for this business primarily from organic search traffic and my music teaching web site - [davelongmusic.com](davelongmusic.com "Professional piano lessons and music instruction").
+I’ve always had a deep connection to music.  I began my study of music as a child, and my love of and relationship with music has grown and deepend over time.  I’ve learned to play a number of different instruments such as piano, guitar, drums, saxophone, and trumpet.  I’m currently running a business in which I teach piano lessons professionally - both in person and online.  In addition to personal referrals, word of mouth, and a few other sources, I’m generating leads for this business primarily from organic search traffic and my music teaching web site - [davelongmusic.com](davelongmusic.com "piano lessons and music instruction").
 
 ## College
 
@@ -31,7 +31,7 @@ I've always enjoyed reading and writing.  My interest and skill in writing was o
 
 ## Computer Programming
 
-Over the last year or so, I've been increasingly focused on learning and working with computer programming.  I've had an interest in coding and computers since I was a young child playing around with my family's Commodore 64 and other IBM-compatible computers.  I've since spent time learning and exploring the linux and macos operating systems.  I've particularly enjoyed deepening my understading of the command line and the arch linux and ubuntu linux distributions.  I've also spent time studying programming languages such as C, C++, Lua, Rust, go (golang), and python.  Most recently, I've been focused on learning web development with a focus on html, css, and javascript.
+Over the last year or so, I've been increasingly focused on learning and working with computer programming.  I've had an interest in coding and computers since I was a young child playing around with my family's Commodore 64 and other IBM-compatible computers.  I've since spent time learning and exploring the linux and macos operating systems.  I've particularly enjoyed deepening my understading of the command line and the arch linux and ubuntu linux distributions.  I've also spent time studying programming languages such as C, C++, Lua, Rust, go (golang), and python.  Most recently, I've been focused on learning web development with a focus on html, css, and javascript.  You can learn more about my coding background and activities at [davelong.dev](davelong.dev "software development info")
 
 ## Archtop Web Studio - Web Site Development & Design
 
