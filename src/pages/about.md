@@ -35,9 +35,9 @@ I've always enjoyed reading and writing.  My interest and skill in writing was o
 
 Over the last year or so, I've been increasingly focused on learning and working with computer programming.  I've had an interest in coding and computers since I was a young child playing around with my family's Commodore 64 and other IBM-compatible computers.  I've since spent time learning and exploring the linux and macos operating systems.  I've particularly enjoyed deepening my understading of the command line and the arch linux and ubuntu linux distributions.  I've also spent time studying programming languages such as C, C++, Lua, Rust, go (golang), and python.  Most recently, I've been focused on learning web development with a focus on html, css, and javascript.  You can learn more about my coding background and activities at [davelongdev.com](https://davelongdev.com "software development info")
 
-## Archtop Web Studio - Web Site Development & Design
+## Dave Long Web Studio - Web Site Development & Design
 
-I'm currently in the process of launching Archtop Web Studio, a new business that's focused on building web sites for various clients.  If you're interested in building a web site with me, please get in touch.
+I'm currently working on a freelance web site building budiness - [davelongwebstudio.com](https://davelongwebstudio.com "building web sites").  If you're interested in building a web site with me, please get in touch.  You can reach me at [davelongdev@gmail.com](mailto:davelongdev@gmail.com).
 
 ## Teaching & Learning in Public
 
